@@ -1,7 +1,7 @@
 # Smart Trash Can 만들기 프로젝트
 AI MAKERS KIT을 이용하여 발화로 쓰레기통을 움직이는 프로젝트입니다.
 
-![Title_image](https://github.com/make1everything1hj/code_factory/blob/master/smart_trash_can.png){: width="100" height="100"}
+![Title_image](https://github.com/make1everything1hj/code_factory/blob/master/smart_trash_can.png)
 ## 1. 필요한 재료들
 미니 휴지통 1개
 마이크로 서보모터 SG90 1개
