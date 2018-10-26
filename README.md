@@ -1,6 +1,7 @@
 # Smart Trash Can 만들기 프로젝트
 AI MAKERS KIT을 이용하여 발화로 쓰레기통을 움직이는 프로젝트입니다.
 
+![Title_image](https://github.com/make1everything1hj/code_factory/blob/master/smart_trash_can.png)
 ## 필요한 재료
 미니 휴지통 1개
 마이크로 서보모터 SG90 1개
@@ -11,7 +12,7 @@ Step-down DC-DC 컨버터 모듈 1개
 
 ###
 GiGA Genie AI Makers Kit 은 Raspberry Pi 와 동일한 GPIO Pinout을 제공한다.
-![Title_image](https://github.com/make1everything1hj/code_factory/blob/master/smart_trash_can.png)
+
 
 이중 Audio Board에서 몇몇 핀을 이용하기 다음 그림의 파란색 부분은 이용 불가능한 Pin 이다. 
 ![usedpin](https://user-images.githubusercontent.com/16068060/42006135-02b58aaa-7ab3-11e8-94cc-da21eab6b841.png)
