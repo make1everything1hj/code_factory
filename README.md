@@ -12,10 +12,12 @@ AI MAKERS KIT을 이용하여 발화로 쓰레기통을 움직이는 프로젝�
 
 ## 2. 배선도
 ![curcuit](https://github.com/make1everything1hj/code_factory/blob/master/circuit_line2.png)
-GiGA Genie AI Makers Kit 은 Raspberry Pi 와 동일한 GPIO Pinout을 제공한다.
 
+* Smart Trash Can은 18650 배터리를 통해 구동되며, DC 컨버터를 통해 공급받은 전력이 서보모터 컨트롤러를 통해 SG90 서보모터로 공급된다.
+* PCA9685 컨트롤러에서 나온 배선 SDA, SCL, VCC, GND은 메이커스 킷 2번(VCC), 3번(SDA), 5번(SCL), 6번(GND)로 연결된다.
+* 소스코드 상 서보모터 SG90는 PCA9685 컨트롤러 0번에 연결되어 있다.
 
-이중 Audio Board에서 몇몇 핀을 이용하기 다음 그림의 파란색 부분은 이용 불가능한 Pin 이다. 
-![usedpin](https://user-images.githubusercontent.com/16068060/42006135-02b58aaa-7ab3-11e8-94cc-da21eab6b841.png)
+## 3. 소스 파일
+* PCA9685.py: SG90 서보모터 구동 드라이버 
+* smart_trash_can.py: Smart Trash Can 발화 실행 파일
 
-이중 제공되는 버튼의 제어 Pin 은 물리 Pin 의 29번(GPIO번호로는 GPIO05)이고 버튼의 LED 제어 Pin은 물리Pin의 31번(GPIO번호로는 GPIO06)이다.
