@@ -10,7 +10,8 @@ AI MAKERS KIT을 이용하여 발화로 쓰레기통을 움직이는 프로젝�
 * 18650 규격 배터리 홀더 (18650 * 2) 1개
 * 18650 규격 배터리 1개
 
-###
+## 2. 배선도
+![Title_image](https://github.com/make1everything1hj/code_factory/blob/master/curcuit_line.png)
 GiGA Genie AI Makers Kit 은 Raspberry Pi 와 동일한 GPIO Pinout을 제공한다.
 
 
