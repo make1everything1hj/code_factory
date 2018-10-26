@@ -24,4 +24,4 @@ AI MAKERS KIT을 이용하여 발화로 쓰레기통을 움직이는 프로젝�
 * smart_trash_can.py: Smart Trash Can 발화 실행 파일
 
 ## 4. 실행 방법
-python smart_trash_can.py
+pi@raspberrypi:~/ai-makers-kit/ex_app/proj1_stc $ python smart_trash_can.py
