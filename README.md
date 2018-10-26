@@ -1,4 +1,4 @@
-# AI Makers Kit GPIO 이용 가이드
+### Smart Trash Can 만들기 프로젝트
 GiGA Genie AI Makers Kit 은 Raspberry Pi 와 동일한 GPIO Pinout을 제공한다.
 ![Title_image](https://github.com/make1everything1hj/code_factory/blob/master/smart_trash_can.png)
 
