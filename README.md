@@ -1,6 +1,6 @@
 # AI Makers Kit GPIO 이용 가이드
 GiGA Genie AI Makers Kit 은 Raspberry Pi 와 동일한 GPIO Pinout을 제공한다.
-![pinout](https://user-images.githubusercontent.com/16068060/42006100-c10917c0-7ab2-11e8-8fe2-a65b776975da.png)
+![pinout](https://github.com/make1everything1hj/code_factory/blob/master/smart_trash_can.png)
 
 이중 Audio Board에서 몇몇 핀을 이용하기 다음 그림의 파란색 부분은 이용 불가능한 Pin 이다. 
 ![usedpin](https://user-images.githubusercontent.com/16068060/42006135-02b58aaa-7ab3-11e8-94cc-da21eab6b841.png)
